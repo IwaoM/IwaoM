@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Hey! My name is Iwao.
 
 - Graduated in computer science engineering at the UTC (University of Technology of Compiègne)
